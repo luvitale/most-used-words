@@ -1,4 +1,4 @@
-# most-used-words
+# most-used-words-vue
 
 ## Project setup
 ```

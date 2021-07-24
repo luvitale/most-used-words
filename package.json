@@ -1,9 +1,8 @@
 {
   "name": "most-used-words",
-  "title": "Most Used Words",
   "version": "0.1.0",
-  "author": "Luciano Nahuel Vitale",
   "private": true,
+  "author": "Luciano Nahuel Vitale <lucianonahuelvitale@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
