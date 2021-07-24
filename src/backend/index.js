@@ -1,9 +1,12 @@
-import { ipcMain } from 'electron';
+import { ipcMain } from 'electron'
+
 import pathsToRows from './pathsToRows'
+import prepareData from './prepareData'
 
 ipcMain.on("process-subtitles", (event, paths) => {
   pathsToRows(paths)
-    .then(rows => console.log(rows))
+    .then(rows => prepareData(rows))
+    .then(words => console.log(words))
     .then(() => {
       event.reply("process-subtitles", [
           { name: 'i', amount: 1234 },

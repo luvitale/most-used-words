@@ -1,5 +1,4 @@
 const fs = require('fs')
-const { resolve } = require('url')
 
 module.exports = paths => {
   return new Promise((resolver, reject) => {
