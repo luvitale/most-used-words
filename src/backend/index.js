@@ -2,19 +2,18 @@ import { ipcMain } from 'electron'
 
 import pathsToRows from './pathsToRows'
 import prepareData from './prepareData'
+import groupWords from './groupWords'
 
 ipcMain.on("process-subtitles", (event, paths) => {
   pathsToRows(paths)
     .then(rows => prepareData(rows))
-    .then(words => console.log(words))
-    .then(() => {
-      event.reply("process-subtitles", [
-          { name: 'i', amount: 1234 },
-          { name: 'you', amount: 900 },
-          { name: 'he', amount: 853 },
-          { name: 'she', amount: 853 },
-          { name: 'our', amount: 133 },
-          { name: 'house', amount: 23 },
-        ])
+    .then(words => groupWords(words))
+    .then(words => {
+      console.log(words)
+      return words
     })
+    .then(groupedWords => {
+      event.reply("process-subtitles", groupedWords)
+    })
+    .catch(e => console.log(e.toString()))
 })
