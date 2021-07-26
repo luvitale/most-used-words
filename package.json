@@ -1,6 +1,6 @@
 {
   "name": "most-used-words",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "author": "Luciano Nahuel Vitale <lucianonahuelvitale@gmail.com>",
   "scripts": {
