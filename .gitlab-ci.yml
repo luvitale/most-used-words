@@ -1,0 +1,31 @@
+default:
+  image: node:14
+  before_script:
+    - apt update
+    - yarn install
+
+services:
+  - 4tqrgqe5yrgfd/electron:latest
+
+stages:
+  - test
+  - deploy
+
+cache:
+  paths:
+    - node_modules/
+
+test:
+  script:
+    - yarn test:unit
+
+deploy:
+  script:
+    - apt -y install rpm
+    - yarn electron:build
+  artifacts:
+    paths:
+      - dist_electron/*.AppImage
+      - dist_electron/*.snap
+      - dist_electron/*.deb
+      - dist_electron/*.rpm

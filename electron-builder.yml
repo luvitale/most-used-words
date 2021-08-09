@@ -1,0 +1,17 @@
+appId: "ar.gob.inti.digitalsignature"
+productName: "Firma Digital INTI"
+
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+        - ia32
+
+# Linux configuration
+linux:
+  category: Development
+  target:
+    - AppImage
+    - deb
+    - rpm
