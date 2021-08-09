@@ -8,16 +8,11 @@ services:
   - 4tqrgqe5yrgfd/electron:latest
 
 stages:
-  - test
   - deploy
 
 cache:
   paths:
     - node_modules/
-
-test:
-  script:
-    - yarn test:unit
 
 deploy:
   script:
