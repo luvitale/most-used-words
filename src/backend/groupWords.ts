@@ -1,10 +1,13 @@
-module.exports = (words) => {
+export default (words: any[]) => {
   return new Promise((resolver, reject) => {
     try {
-      const groupedWords = words.reduce((obj, word) => {
-        obj[word] = obj[word] + 1 || 1;
-        return obj;
-      }, {});
+      const groupedWords = words.reduce(
+        (obj: { [x: string]: number }, word: string | number) => {
+          obj[word] = obj[word] + 1 || 1;
+          return obj;
+        },
+        {}
+      );
 
       const groupedWordsArray = Object.keys(groupedWords)
         .map((key) => ({

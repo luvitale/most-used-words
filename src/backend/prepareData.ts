@@ -1,4 +1,4 @@
-module.exports = (rows) => {
+export default (rows: any[]) => {
   return new Promise((resolver, reject) => {
     try {
       const words = rows
@@ -7,8 +7,8 @@ module.exports = (rows) => {
         .map(removeTags)
         .reduce(mergeRows)
         .split(" ")
-        .map((word) => word.toLowerCase())
-        .map((word) => word.replace('"', ""));
+        .map((word: string) => word.toLowerCase())
+        .map((word: string) => word.replace('"', ""));
 
       resolver(words);
     } catch (e) {
@@ -17,7 +17,7 @@ module.exports = (rows) => {
   });
 };
 
-const filterValidRow = (row) => {
+const filterValidRow = (row: string) => {
   const notNumber = !parseInt(row.trim());
   const notEmpty = !!row.trim();
   const notInterval = !row.includes("-->");
@@ -25,8 +25,8 @@ const filterValidRow = (row) => {
   return notNumber && notEmpty && notInterval;
 };
 
-const removePunctuation = (row) => row.replace(/[,?!.-]/g, "");
+const removePunctuation = (row: string) => row.replace(/[,?!.-]/g, "");
 
-const removeTags = (row) => row.replace(/(<[^>]+)>/gi, "").trim();
+const removeTags = (row: string) => row.replace(/(<[^>]+)>/gi, "").trim();
 
-const mergeRows = (fullText, row) => `${fullText} ${row}`;
+const mergeRows = (fullText: any, row: any) => `${fullText} ${row}`;

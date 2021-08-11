@@ -5,6 +5,7 @@ import fs from "fs";
 import pathsToRows from "@/backend/pathsToRows";
 import prepareData from "@/backend/prepareData";
 import groupWords from "@/backend/groupWords";
+import { GroupedWord } from "@/index";
 
 describe("Most Used Words", () => {
   it("Grouped words is equal to expected grouped words", async () => {
@@ -25,16 +26,16 @@ describe("Most Used Words", () => {
     );
 
     await pathsToRows(paths)
-      .then(async (rows) => await prepareData(rows))
-      .then(async (words) => await groupWords(words))
-      .then((groupedWords) => {
+      .then(async (rows: any) => await prepareData(rows))
+      .then(async (words: any) => await groupWords(words))
+      .then((groupedWords: any) => {
         // expect(expectedGroupedWords).to.deep.equal(groupedWords)
-        expectedGroupedWords.map((eW, i) => {
+        expectedGroupedWords.map((eW: GroupedWord, i: any) => {
           expect(eW.name).to.equal(groupedWords[i].name);
           expect(eW.amount).to.equal(groupedWords[i].amount);
         });
       })
-      .catch((error) => {
+      .catch((error: { toString: () => any }) => {
         console.log(error.toString());
         expect(expectedGroupedWords).to.equal(error);
       });

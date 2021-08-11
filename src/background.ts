@@ -5,6 +5,7 @@ import { createProtocol } from "vue-cli-plugin-electron-builder/lib";
 import installExtension, { VUEJS_DEVTOOLS } from "electron-devtools-installer";
 import path from "path";
 import "./backend";
+declare const __static: string;
 
 const isDevelopment = process.env.NODE_ENV !== "production";
 
@@ -21,9 +22,9 @@ async function createWindow() {
     webPreferences: {
       // Use pluginOptions.nodeIntegration, leave this alone
       // See nklayman.github.io/vue-cli-plugin-electron-builder/guide/security.html#node-integration for more info
-      nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION,
+      nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION as any,
       contextIsolation: !process.env.ELECTRON_NODE_INTEGRATION,
-      /* global __static */
+
       preload: path.resolve(__static, "preload.js"),
     },
   });
@@ -62,7 +63,7 @@ app.on("ready", async () => {
     // Install Vue Devtools
     try {
       await installExtension(VUEJS_DEVTOOLS);
-    } catch (e) {
+    } catch (e: any) {
       console.error("Vue Devtools failed to install:", e.toString());
     }
   }
