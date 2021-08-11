@@ -1,26 +1,32 @@
 <template>
-  <v-app>
+  <v-app id="app">
+    <div id="nav"></div>
     <v-app-bar app color="primary" dark>
       <v-toolbar-title>Most Used Words</v-toolbar-title>
     </v-app-bar>
-    <v-main>
-      <Home />
-    </v-main>
+    <router-view/>
   </v-app>
 </template>
 
-<script>
-import Home from './components/Home';
+<style lang="scss">
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
 
-export default {
-  name: 'App',
+#nav {
+  padding: 30px;
 
-  components: {
-    Home,
-  },
+  a {
+    font-weight: bold;
+    color: #2c3e50;
 
-  data: () => ({
-    //
-  }),
-};
-</script>
+    &.router-link-exact-active {
+      color: #42b983;
+    }
+  }
+}
+</style>

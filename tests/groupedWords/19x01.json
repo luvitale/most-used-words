@@ -1,0 +1,2902 @@
+[
+    {
+        "name": "you",
+        "amount": 84
+    },
+    {
+        "name": "i",
+        "amount": 82
+    },
+    {
+        "name": "the",
+        "amount": 62
+    },
+    {
+        "name": "a",
+        "amount": 61
+    },
+    {
+        "name": "to",
+        "amount": 56
+    },
+    {
+        "name": "it",
+        "amount": 34
+    },
+    {
+        "name": "and",
+        "amount": 27
+    },
+    {
+        "name": "is",
+        "amount": 26
+    },
+    {
+        "name": "do",
+        "amount": 25
+    },
+    {
+        "name": "what",
+        "amount": 22
+    },
+    {
+        "name": "of",
+        "amount": 22
+    },
+    {
+        "name": "my",
+        "amount": 21
+    },
+    {
+        "name": "have",
+        "amount": 21
+    },
+    {
+        "name": "for",
+        "amount": 20
+    },
+    {
+        "name": "me",
+        "amount": 19
+    },
+    {
+        "name": "in",
+        "amount": 18
+    },
+    {
+        "name": "on",
+        "amount": 17
+    },
+    {
+        "name": "your",
+        "amount": 17
+    },
+    {
+        "name": "so",
+        "amount": 17
+    },
+    {
+        "name": "now",
+        "amount": 16
+    },
+    {
+        "name": "this",
+        "amount": 16
+    },
+    {
+        "name": "",
+        "amount": 16
+    },
+    {
+        "name": "no",
+        "amount": 16
+    },
+    {
+        "name": "homer",
+        "amount": 16
+    },
+    {
+        "name": "we",
+        "amount": 15
+    },
+    {
+        "name": "be",
+        "amount": 15
+    },
+    {
+        "name": "just",
+        "amount": 15
+    },
+    {
+        "name": "you're",
+        "amount": 15
+    },
+    {
+        "name": "can",
+        "amount": 15
+    },
+    {
+        "name": "i'm",
+        "amount": 15
+    },
+    {
+        "name": "i'll",
+        "amount": 14
+    },
+    {
+        "name": "don't",
+        "amount": 14
+    },
+    {
+        "name": "beer",
+        "amount": 14
+    },
+    {
+        "name": "that",
+        "amount": 13
+    },
+    {
+        "name": "at",
+        "amount": 13
+    },
+    {
+        "name": "but",
+        "amount": 13
+    },
+    {
+        "name": "job",
+        "amount": 13
+    },
+    {
+        "name": "all",
+        "amount": 12
+    },
+    {
+        "name": "with",
+        "amount": 12
+    },
+    {
+        "name": "like",
+        "amount": 12
+    },
+    {
+        "name": "get",
+        "amount": 11
+    },
+    {
+        "name": "know",
+        "amount": 11
+    },
+    {
+        "name": "well",
+        "amount": 10
+    },
+    {
+        "name": "need",
+        "amount": 10
+    },
+    {
+        "name": "that's",
+        "amount": 10
+    },
+    {
+        "name": "plane",
+        "amount": 10
+    },
+    {
+        "name": "say",
+        "amount": 10
+    },
+    {
+        "name": "if",
+        "amount": 9
+    },
+    {
+        "name": "not",
+        "amount": 9
+    },
+    {
+        "name": "it's",
+        "amount": 9
+    },
+    {
+        "name": "right",
+        "amount": 8
+    },
+    {
+        "name": "go",
+        "amount": 8
+    },
+    {
+        "name": "dad",
+        "amount": 8
+    },
+    {
+        "name": "uh",
+        "amount": 8
+    },
+    {
+        "name": "one",
+        "amount": 8
+    },
+    {
+        "name": "tell",
+        "amount": 8
+    },
+    {
+        "name": "here",
+        "amount": 7
+    },
+    {
+        "name": "why",
+        "amount": 7
+    },
+    {
+        "name": "anything",
+        "amount": 7
+    },
+    {
+        "name": "day",
+        "amount": 7
+    },
+    {
+        "name": "new",
+        "amount": 6
+    },
+    {
+        "name": "was",
+        "amount": 6
+    },
+    {
+        "name": "take",
+        "amount": 6
+    },
+    {
+        "name": "there",
+        "amount": 6
+    },
+    {
+        "name": "hey",
+        "amount": 6
+    },
+    {
+        "name": "life",
+        "amount": 6
+    },
+    {
+        "name": "up",
+        "amount": 6
+    },
+    {
+        "name": "oh",
+        "amount": 6
+    },
+    {
+        "name": "make",
+        "amount": 6
+    },
+    {
+        "name": "way",
+        "amount": 6
+    },
+    {
+        "name": "gonna",
+        "amount": 6
+    },
+    {
+        "name": "okay",
+        "amount": 6
+    },
+    {
+        "name": "an",
+        "amount": 6
+    },
+    {
+        "name": "think",
+        "amount": 6
+    },
+    {
+        "name": "private",
+        "amount": 6
+    },
+    {
+        "name": "out",
+        "amount": 6
+    },
+    {
+        "name": ":",
+        "amount": 5
+    },
+    {
+        "name": "chicago",
+        "amount": 5
+    },
+    {
+        "name": "us",
+        "amount": 5
+    },
+    {
+        "name": "back",
+        "amount": 5
+    },
+    {
+        "name": "said",
+        "amount": 5
+    },
+    {
+        "name": "about",
+        "amount": 5
+    },
+    {
+        "name": "some",
+        "amount": 5
+    },
+    {
+        "name": "did",
+        "amount": 5
+    },
+    {
+        "name": "never",
+        "amount": 5
+    },
+    {
+        "name": "how",
+        "amount": 5
+    },
+    {
+        "name": "good",
+        "amount": 5
+    },
+    {
+        "name": "marge",
+        "amount": 5
+    },
+    {
+        "name": "over",
+        "amount": 4
+    },
+    {
+        "name": "help",
+        "amount": 4
+    },
+    {
+        "name": "yeah",
+        "amount": 4
+    },
+    {
+        "name": "got",
+        "amount": 4
+    },
+    {
+        "name": "mr",
+        "amount": 4
+    },
+    {
+        "name": "show",
+        "amount": 4
+    },
+    {
+        "name": "sure",
+        "amount": 4
+    },
+    {
+        "name": "should",
+        "amount": 4
+    },
+    {
+        "name": "want",
+        "amount": 4
+    },
+    {
+        "name": "first",
+        "amount": 4
+    },
+    {
+        "name": "coffee",
+        "amount": 4
+    },
+    {
+        "name": "are",
+        "amount": 4
+    },
+    {
+        "name": "look",
+        "amount": 4
+    },
+    {
+        "name": "already",
+        "amount": 4
+    },
+    {
+        "name": "doing",
+        "amount": 4
+    },
+    {
+        "name": "bowling",
+        "amount": 4
+    },
+    {
+        "name": "could",
+        "amount": 4
+    },
+    {
+        "name": "penny",
+        "amount": 3
+    },
+    {
+        "name": "come",
+        "amount": 3
+    },
+    {
+        "name": "had",
+        "amount": 3
+    },
+    {
+        "name": "time",
+        "amount": 3
+    },
+    {
+        "name": "something",
+        "amount": 3
+    },
+    {
+        "name": "see",
+        "amount": 3
+    },
+    {
+        "name": "then",
+        "amount": 3
+    },
+    {
+        "name": "he",
+        "amount": 3
+    },
+    {
+        "name": "hear",
+        "amount": 3
+    },
+    {
+        "name": "who",
+        "amount": 3
+    },
+    {
+        "name": "jet",
+        "amount": 3
+    },
+    {
+        "name": "name",
+        "amount": 3
+    },
+    {
+        "name": "svetlana",
+        "amount": 3
+    },
+    {
+        "name": "richie",
+        "amount": 3
+    },
+    {
+        "name": "word",
+        "amount": 3
+    },
+    {
+        "name": "leave",
+        "amount": 3
+    },
+    {
+        "name": "we're",
+        "amount": 3
+    },
+    {
+        "name": "before",
+        "amount": 3
+    },
+    {
+        "name": "our",
+        "amount": 3
+    },
+    {
+        "name": "siberia",
+        "amount": 3
+    },
+    {
+        "name": "them",
+        "amount": 3
+    },
+    {
+        "name": "fly",
+        "amount": 3
+    },
+    {
+        "name": "flew",
+        "amount": 3
+    },
+    {
+        "name": "different",
+        "amount": 3
+    },
+    {
+        "name": "please",
+        "amount": 3
+    },
+    {
+        "name": "homie",
+        "amount": 3
+    },
+    {
+        "name": "what's",
+        "amount": 3
+    },
+    {
+        "name": "remember",
+        "amount": 3
+    },
+    {
+        "name": "again",
+        "amount": 3
+    },
+    {
+        "name": "will",
+        "amount": 3
+    },
+    {
+        "name": "people",
+        "amount": 3
+    },
+    {
+        "name": "stop",
+        "amount": 3
+    },
+    {
+        "name": "those",
+        "amount": 3
+    },
+    {
+        "name": "guy",
+        "amount": 3
+    },
+    {
+        "name": "great",
+        "amount": 3
+    },
+    {
+        "name": "gotta",
+        "amount": 3
+    },
+    {
+        "name": "kenji",
+        "amount": 2
+    },
+    {
+        "name": "phone",
+        "amount": 2
+    },
+    {
+        "name": "sir",
+        "amount": 2
+    },
+    {
+        "name": "ooh",
+        "amount": 2
+    },
+    {
+        "name": "another",
+        "amount": 2
+    },
+    {
+        "name": "still",
+        "amount": 2
+    },
+    {
+        "name": "might",
+        "amount": 2
+    },
+    {
+        "name": "helpme",
+        "amount": 2
+    },
+    {
+        "name": "guess",
+        "amount": 2
+    },
+    {
+        "name": "more",
+        "amount": 2
+    },
+    {
+        "name": "must",
+        "amount": 2
+    },
+    {
+        "name": "cookie",
+        "amount": 2
+    },
+    {
+        "name": "car",
+        "amount": 2
+    },
+    {
+        "name": "getting",
+        "amount": 2
+    },
+    {
+        "name": "dinner",
+        "amount": 2
+    },
+    {
+        "name": "pick",
+        "amount": 2
+    },
+    {
+        "name": "5:00",
+        "amount": 2
+    },
+    {
+        "name": "burns",
+        "amount": 2
+    },
+    {
+        "name": "precious",
+        "amount": 2
+    },
+    {
+        "name": "night",
+        "amount": 2
+    },
+    {
+        "name": "boyfriend",
+        "amount": 2
+    },
+    {
+        "name": "simpson",
+        "amount": 2
+    },
+    {
+        "name": "drive",
+        "amount": 2
+    },
+    {
+        "name": "work",
+        "amount": 2
+    },
+    {
+        "name": "boss",
+        "amount": 2
+    },
+    {
+        "name": "call",
+        "amount": 2
+    },
+    {
+        "name": "mean",
+        "amount": 2
+    },
+    {
+        "name": "everyone",
+        "amount": 2
+    },
+    {
+        "name": "air",
+        "amount": 2
+    },
+    {
+        "name": "control",
+        "amount": 2
+    },
+    {
+        "name": "three",
+        "amount": 2
+    },
+    {
+        "name": "listen",
+        "amount": 2
+    },
+    {
+        "name": "lionel",
+        "amount": 2
+    },
+    {
+        "name": "always",
+        "amount": 2
+    },
+    {
+        "name": "every",
+        "amount": 2
+    },
+    {
+        "name": "wait",
+        "amount": 2
+    },
+    {
+        "name": "billionaire",
+        "amount": 2
+    },
+    {
+        "name": "where",
+        "amount": 2
+    },
+    {
+        "name": "starbucks",
+        "amount": 2
+    },
+    {
+        "name": "billion",
+        "amount": 2
+    },
+    {
+        "name": "were",
+        "amount": 2
+    },
+    {
+        "name": "york",
+        "amount": 2
+    },
+    {
+        "name": "happy",
+        "amount": 2
+    },
+    {
+        "name": "commercial",
+        "amount": 2
+    },
+    {
+        "name": "from",
+        "amount": 2
+    },
+    {
+        "name": "between",
+        "amount": 2
+    },
+    {
+        "name": "wrong",
+        "amount": 2
+    },
+    {
+        "name": "rest",
+        "amount": 2
+    },
+    {
+        "name": "by",
+        "amount": 2
+    },
+    {
+        "name": "hi",
+        "amount": 2
+    },
+    {
+        "name": "hired",
+        "amount": 2
+    },
+    {
+        "name": "him",
+        "amount": 2
+    },
+    {
+        "name": "any",
+        "amount": 2
+    },
+    {
+        "name": "coach",
+        "amount": 2
+    },
+    {
+        "name": "film",
+        "amount": 2
+    },
+    {
+        "name": "double",
+        "amount": 2
+    },
+    {
+        "name": "uncle",
+        "amount": 2
+    },
+    {
+        "name": "hmm",
+        "amount": 2
+    },
+    {
+        "name": "i'd",
+        "amount": 2
+    },
+    {
+        "name": "head",
+        "amount": 2
+    },
+    {
+        "name": "door",
+        "amount": 2
+    },
+    {
+        "name": "loser",
+        "amount": 2
+    },
+    {
+        "name": "positive",
+        "amount": 2
+    },
+    {
+        "name": "saying",
+        "amount": 2
+    },
+    {
+        "name": "been",
+        "amount": 2
+    },
+    {
+        "name": "you'd",
+        "amount": 2
+    },
+    {
+        "name": "really",
+        "amount": 2
+    },
+    {
+        "name": "as",
+        "amount": 2
+    },
+    {
+        "name": "i've",
+        "amount": 2
+    },
+    {
+        "name": "alley",
+        "amount": 2
+    },
+    {
+        "name": "man",
+        "amount": 2
+    },
+    {
+        "name": "going",
+        "amount": 2
+    },
+    {
+        "name": "planes",
+        "amount": 2
+    },
+    {
+        "name": "choice",
+        "amount": 2
+    },
+    {
+        "name": "copper",
+        "amount": 2
+    },
+    {
+        "name": "tubing",
+        "amount": 2
+    },
+    {
+        "name": "safety",
+        "amount": 2
+    },
+    {
+        "name": "inspector",
+        "amount": 2
+    },
+    {
+        "name": "american",
+        "amount": 2
+    },
+    {
+        "name": "old",
+        "amount": 2
+    },
+    {
+        "name": "yay",
+        "amount": 2
+    },
+    {
+        "name": "give",
+        "amount": 2
+    },
+    {
+        "name": "'em",
+        "amount": 2
+    },
+    {
+        "name": "proud",
+        "amount": 2
+    },
+    {
+        "name": "early",
+        "amount": 2
+    },
+    {
+        "name": "lunch",
+        "amount": 2
+    },
+    {
+        "name": "has",
+        "amount": 2
+    },
+    {
+        "name": "buy",
+        "amount": 2
+    },
+    {
+        "name": "maze",
+        "amount": 2
+    },
+    {
+        "name": "company",
+        "amount": 2
+    },
+    {
+        "name": "told",
+        "amount": 2
+    },
+    {
+        "name": "because",
+        "amount": 2
+    },
+    {
+        "name": "when",
+        "amount": 2
+    },
+    {
+        "name": "didn't",
+        "amount": 2
+    },
+    {
+        "name": "security",
+        "amount": 2
+    },
+    {
+        "name": "couldn't",
+        "amount": 2
+    },
+    {
+        "name": "hello",
+        "amount": 2
+    },
+    {
+        "name": "honey",
+        "amount": 2
+    },
+    {
+        "name": "there's",
+        "amount": 2
+    },
+    {
+        "name": "news",
+        "amount": 2
+    },
+    {
+        "name": "ever",
+        "amount": 2
+    },
+    {
+        "name": "maybe",
+        "amount": 2
+    },
+    {
+        "name": "semper",
+        "amount": 2
+    },
+    {
+        "name": "fudge",
+        "amount": 2
+    },
+    {
+        "name": "flying",
+        "amount": 2
+    },
+    {
+        "name": "you've",
+        "amount": 2
+    },
+    {
+        "name": "client",
+        "amount": 2
+    },
+    {
+        "name": "least",
+        "amount": 2
+    },
+    {
+        "name": "land",
+        "amount": 2
+    },
+    {
+        "name": "south",
+        "amount": 2
+    },
+    {
+        "name": "duke",
+        "amount": 2
+    },
+    {
+        "name": "feet",
+        "amount": 2
+    },
+    {
+        "name": "let",
+        "amount": 2
+    },
+    {
+        "name": "20",
+        "amount": 1
+    },
+    {
+        "name": "200",
+        "amount": 1
+    },
+    {
+        "name": "217",
+        "amount": 1
+    },
+    {
+        "name": "300",
+        "amount": 1
+    },
+    {
+        "name": "543",
+        "amount": 1
+    },
+    {
+        "name": "d'oh",
+        "amount": 1
+    },
+    {
+        "name": "team",
+        "amount": 1
+    },
+    {
+        "name": "pr�sente",
+        "amount": 1
+    },
+    {
+        "name": "traduction",
+        "amount": 1
+    },
+    {
+        "name": "synchro",
+        "amount": 1
+    },
+    {
+        "name": "sw38",
+        "amount": 1
+    },
+    {
+        "name": "relecture",
+        "amount": 1
+    },
+    {
+        "name": "bartelemix",
+        "amount": 1
+    },
+    {
+        "name": "sebaset",
+        "amount": 1
+    },
+    {
+        "name": "thanks",
+        "amount": 1
+    },
+    {
+        "name": "swsubcom",
+        "amount": 1
+    },
+    {
+        "name": "transcript",
+        "amount": 1
+    },
+    {
+        "name": "next",
+        "amount": 1
+    },
+    {
+        "name": "shopping",
+        "amount": 1
+    },
+    {
+        "name": "list",
+        "amount": 1
+    },
+    {
+        "name": "attention",
+        "amount": 1
+    },
+    {
+        "name": "shoppers",
+        "amount": 1
+    },
+    {
+        "name": "iphone",
+        "amount": 1
+    },
+    {
+        "name": "cents",
+        "amount": 1
+    },
+    {
+        "name": "happened",
+        "amount": 1
+    },
+    {
+        "name": "minicell",
+        "amount": 1
+    },
+    {
+        "name": "gave",
+        "amount": 1
+    },
+    {
+        "name": "thought",
+        "amount": 1
+    },
+    {
+        "name": "lemon",
+        "amount": 1
+    },
+    {
+        "name": "drop",
+        "amount": 1
+    },
+    {
+        "name": "number",
+        "amount": 1
+    },
+    {
+        "name": "delisted",
+        "amount": 1
+    },
+    {
+        "name": "billions",
+        "amount": 1
+    },
+    {
+        "name": "hoodlum",
+        "amount": 1
+    },
+    {
+        "name": "prepare",
+        "amount": 1
+    },
+    {
+        "name": "pinched",
+        "amount": 1
+    },
+    {
+        "name": "papa",
+        "amount": 1
+    },
+    {
+        "name": "end",
+        "amount": 1
+    },
+    {
+        "name": "wish",
+        "amount": 1
+    },
+    {
+        "name": "spent",
+        "amount": 1
+    },
+    {
+        "name": "office",
+        "amount": 1
+    },
+    {
+        "name": "saved",
+        "amount": 1
+    },
+    {
+        "name": "free",
+        "amount": 1
+    },
+    {
+        "name": "me\"",
+        "amount": 1
+    },
+    {
+        "name": "tomorrow",
+        "amount": 1
+    },
+    {
+        "name": "waste",
+        "amount": 1
+    },
+    {
+        "name": "saturday",
+        "amount": 1
+    },
+    {
+        "name": "fun",
+        "amount": 1
+    },
+    {
+        "name": "pizza",
+        "amount": 1
+    },
+    {
+        "name": "pie",
+        "amount": 1
+    },
+    {
+        "name": "favorite",
+        "amount": 1
+    },
+    {
+        "name": "deepdish",
+        "amount": 1
+    },
+    {
+        "name": "eh",
+        "amount": 1
+    },
+    {
+        "name": "took",
+        "amount": 1
+    },
+    {
+        "name": "monday",
+        "amount": 1
+    },
+    {
+        "name": "total",
+        "amount": 1
+    },
+    {
+        "name": "jerk",
+        "amount": 1
+    },
+    {
+        "name": "pprivate",
+        "amount": 1
+    },
+    {
+        "name": "would",
+        "amount": 1
+    },
+    {
+        "name": "care",
+        "amount": 1
+    },
+    {
+        "name": "sushi",
+        "amount": 1
+    },
+    {
+        "name": "idiot",
+        "amount": 1
+    },
+    {
+        "name": "baby",
+        "amount": 1
+    },
+    {
+        "name": "she'll",
+        "amount": 1
+    },
+    {
+        "name": "except",
+        "amount": 1
+    },
+    {
+        "name": "sex",
+        "amount": 1
+    },
+    {
+        "name": "aroused",
+        "amount": 1
+    },
+    {
+        "name": "confused",
+        "amount": 1
+    },
+    {
+        "name": "scratchy",
+        "amount": 1
+    },
+    {
+        "name": "stewardess",
+        "amount": 1
+    },
+    {
+        "name": "sorry",
+        "amount": 1
+    },
+    {
+        "name": "traffic",
+        "amount": 1
+    },
+    {
+        "name": "says",
+        "amount": 1
+    },
+    {
+        "name": "spend",
+        "amount": 1
+    },
+    {
+        "name": "hours",
+        "amount": 1
+    },
+    {
+        "name": "tarmac",
+        "amount": 1
+    },
+    {
+        "name": "wonderful",
+        "amount": 1
+    },
+    {
+        "name": "musical",
+        "amount": 1
+    },
+    {
+        "name": "stylings",
+        "amount": 1
+    },
+    {
+        "name": "god",
+        "amount": 1
+    },
+    {
+        "name": "sing",
+        "amount": 1
+    },
+    {
+        "name": "together",
+        "amount": 1
+    },
+    {
+        "name": "naturally",
+        "amount": 1
+    },
+    {
+        "name": "huh",
+        "amount": 1
+    },
+    {
+        "name": "forgot",
+        "amount": 1
+    },
+    {
+        "name": "love",
+        "amount": 1
+    },
+    {
+        "name": "else",
+        "amount": 1
+    },
+    {
+        "name": "ground",
+        "amount": 1
+    },
+    {
+        "name": "november",
+        "amount": 1
+    },
+    {
+        "name": "charlie",
+        "amount": 1
+    },
+    {
+        "name": "extractor",
+        "amount": 1
+    },
+    {
+        "name": "we'll",
+        "amount": 1
+    },
+    {
+        "name": "let's",
+        "amount": 1
+    },
+    {
+        "name": "enjoy",
+        "amount": 1
+    },
+    {
+        "name": "miami",
+        "amount": 1
+    },
+    {
+        "name": "canada",
+        "amount": 1
+    },
+    {
+        "name": "folks",
+        "amount": 1
+    },
+    {
+        "name": "improv",
+        "amount": 1
+    },
+    {
+        "name": "occupation",
+        "amount": 1
+    },
+    {
+        "name": "nice",
+        "amount": 1
+    },
+    {
+        "name": "apply",
+        "amount": 1
+    },
+    {
+        "name": "location",
+        "amount": 1
+    },
+    {
+        "name": "came",
+        "amount": 1
+    },
+    {
+        "name": "relax",
+        "amount": 1
+    },
+    {
+        "name": "starbucksin",
+        "amount": 1
+    },
+    {
+        "name": "killer",
+        "amount": 1
+    },
+    {
+        "name": "premise",
+        "amount": 1
+    },
+    {
+        "name": "finally",
+        "amount": 1
+    },
+    {
+        "name": "emotion",
+        "amount": 1
+    },
+    {
+        "name": "drunk",
+        "amount": 1
+    },
+    {
+        "name": "drunk\"",
+        "amount": 1
+    },
+    {
+        "name": "drunken",
+        "amount": 1
+    },
+    {
+        "name": "excuse",
+        "amount": 1
+    },
+    {
+        "name": "change",
+        "amount": 1
+    },
+    {
+        "name": "dollar",
+        "amount": 1
+    },
+    {
+        "name": "bill",
+        "amount": 1
+    },
+    {
+        "name": "costs",
+        "amount": 1
+    },
+    {
+        "name": "dollars",
+        "amount": 1
+    },
+    {
+        "name": "applauding",
+        "amount": 1
+    },
+    {
+        "name": "wrote",
+        "amount": 1
+    },
+    {
+        "name": "while",
+        "amount": 1
+    },
+    {
+        "name": "felt",
+        "amount": 1
+    },
+    {
+        "name": "smell",
+        "amount": 1
+    },
+    {
+        "name": "airline",
+        "amount": 1
+    },
+    {
+        "name": "losers",
+        "amount": 1
+    },
+    {
+        "name": "terrorists",
+        "amount": 1
+    },
+    {
+        "name": "much",
+        "amount": 1
+    },
+    {
+        "name": "normal",
+        "amount": 1
+    },
+    {
+        "name": "joking",
+        "amount": 1
+    },
+    {
+        "name": "difference",
+        "amount": 1
+    },
+    {
+        "name": "champagne",
+        "amount": 1
+    },
+    {
+        "name": "carbonated",
+        "amount": 1
+    },
+    {
+        "name": "pee",
+        "amount": 1
+    },
+    {
+        "name": "missing",
+        "amount": 1
+    },
+    {
+        "name": "ears",
+        "amount": 1
+    },
+    {
+        "name": "haven't",
+        "amount": 1
+    },
+    {
+        "name": "popped",
+        "amount": 1
+    },
+    {
+        "name": "yawn",
+        "amount": 1
+    },
+    {
+        "name": "high",
+        "amount": 1
+    },
+    {
+        "name": "kind",
+        "amount": 1
+    },
+    {
+        "name": "invited",
+        "amount": 1
+    },
+    {
+        "name": "ride",
+        "amount": 1
+    },
+    {
+        "name": "fresh",
+        "amount": 1
+    },
+    {
+        "name": "face",
+        "amount": 1
+    },
+    {
+        "name": "colby",
+        "amount": 1
+    },
+    {
+        "name": "krause",
+        "amount": 1
+    },
+    {
+        "name": "improve",
+        "amount": 1
+    },
+    {
+        "name": "he'll",
+        "amount": 1
+    },
+    {
+        "name": "shrink",
+        "amount": 1
+    },
+    {
+        "name": "therapist",
+        "amount": 1
+    },
+    {
+        "name": "counselor",
+        "amount": 1
+    },
+    {
+        "name": "motivational",
+        "amount": 1
+    },
+    {
+        "name": "speaker",
+        "amount": 1
+    },
+    {
+        "name": "or",
+        "amount": 1
+    },
+    {
+        "name": "guru",
+        "amount": 1
+    },
+    {
+        "name": "step",
+        "amount": 1
+    },
+    {
+        "name": "selfimprovement",
+        "amount": 1
+    },
+    {
+        "name": "thorough",
+        "amount": 1
+    },
+    {
+        "name": "insist",
+        "amount": 1
+    },
+    {
+        "name": "body",
+        "amount": 1
+    },
+    {
+        "name": "fester",
+        "amount": 1
+    },
+    {
+        "name": "alive",
+        "amount": 1
+    },
+    {
+        "name": "camera",
+        "amount": 1
+    },
+    {
+        "name": "done",
+        "amount": 1
+    },
+    {
+        "name": "yet",
+        "amount": 1
+    },
+    {
+        "name": "normally",
+        "amount": 1
+    },
+    {
+        "name": "hu",
+        "amount": 1
+    },
+    {
+        "name": "forget",
+        "amount": 1
+    },
+    {
+        "name": "sometimes",
+        "amount": 1
+    },
+    {
+        "name": "places",
+        "amount": 1
+    },
+    {
+        "name": "relish",
+        "amount": 1
+    },
+    {
+        "name": "tray",
+        "amount": 1
+    },
+    {
+        "name": "insurance",
+        "amount": 1
+    },
+    {
+        "name": "purposes",
+        "amount": 1
+    },
+    {
+        "name": "point",
+        "amount": 1
+    },
+    {
+        "name": "putting",
+        "amount": 1
+    },
+    {
+        "name": "socks",
+        "amount": 1
+    },
+    {
+        "name": "off",
+        "amount": 1
+    },
+    {
+        "name": "week",
+        "amount": 1
+    },
+    {
+        "name": "later",
+        "amount": 1
+    },
+    {
+        "name": "even",
+        "amount": 1
+    },
+    {
+        "name": "morning",
+        "amount": 1
+    },
+    {
+        "name": "fine",
+        "amount": 1
+    },
+    {
+        "name": "winner",
+        "amount": 1
+    },
+    {
+        "name": "watch",
+        "amount": 1
+    },
+    {
+        "name": "journey",
+        "amount": 1
+    },
+    {
+        "name": "downstairs",
+        "amount": 1
+    },
+    {
+        "name": "would've",
+        "amount": 1
+    },
+    {
+        "name": "lot",
+        "amount": 1
+    },
+    {
+        "name": "safer",
+        "amount": 1
+    },
+    {
+        "name": "rembered",
+        "amount": 1
+    },
+    {
+        "name": "ndcs",
+        "amount": 1
+    },
+    {
+        "name": "concentration:",
+        "amount": 1
+    },
+    {
+        "name": "concentrate",
+        "amount": 1
+    },
+    {
+        "name": "shut",
+        "amount": 1
+    },
+    {
+        "name": "can't",
+        "amount": 1
+    },
+    {
+        "name": "song",
+        "amount": 1
+    },
+    {
+        "name": "reaction",
+        "amount": 1
+    },
+    {
+        "name": "shot",
+        "amount": 1
+    },
+    {
+        "name": "his",
+        "amount": 1
+    },
+    {
+        "name": "butt",
+        "amount": 1
+    },
+    {
+        "name": "background",
+        "amount": 1
+    },
+    {
+        "name": "noise",
+        "amount": 1
+    },
+    {
+        "name": "quiet",
+        "amount": 1
+    },
+    {
+        "name": "four",
+        "amount": 1
+    },
+    {
+        "name": "seconds",
+        "amount": 1
+    },
+    {
+        "name": "thank",
+        "amount": 1
+    },
+    {
+        "name": "moving",
+        "amount": 1
+    },
+    {
+        "name": "here's",
+        "amount": 1
+    },
+    {
+        "name": "important",
+        "amount": 1
+    },
+    {
+        "name": "tip:",
+        "amount": 1
+    },
+    {
+        "name": "enjoyed",
+        "amount": 1
+    },
+    {
+        "name": "paying",
+        "amount": 1
+    },
+    {
+        "name": "yell",
+        "amount": 1
+    },
+    {
+        "name": "suck",
+        "amount": 1
+    },
+    {
+        "name": "use",
+        "amount": 1
+    },
+    {
+        "name": "hopeless",
+        "amount": 1
+    },
+    {
+        "name": "whoa",
+        "amount": 1
+    },
+    {
+        "name": "boom",
+        "amount": 1
+    },
+    {
+        "name": "behold",
+        "amount": 1
+    },
+    {
+        "name": "average",
+        "amount": 1
+    },
+    {
+        "name": "weep",
+        "amount": 1
+    },
+    {
+        "name": "lost",
+        "amount": 1
+    },
+    {
+        "name": "hope",
+        "amount": 1
+    },
+    {
+        "name": "totally",
+        "amount": 1
+    },
+    {
+        "name": "relaxed",
+        "amount": 1
+    },
+    {
+        "name": "confident",
+        "amount": 1
+    },
+    {
+        "name": "somewhere",
+        "amount": 1
+    },
+    {
+        "name": "figure",
+        "amount": 1
+    },
+    {
+        "name": "into",
+        "amount": 1
+    },
+    {
+        "name": "everyday",
+        "amount": 1
+    },
+    {
+        "name": "aunt",
+        "amount": 1
+    },
+    {
+        "name": "became",
+        "amount": 1
+    },
+    {
+        "name": "wear",
+        "amount": 1
+    },
+    {
+        "name": "shoes",
+        "amount": 1
+    },
+    {
+        "name": "everywhere",
+        "amount": 1
+    },
+    {
+        "name": "crazy",
+        "amount": 1
+    },
+    {
+        "name": "dr",
+        "amount": 1
+    },
+    {
+        "name": "fredrick",
+        "amount": 1
+    },
+    {
+        "name": "j",
+        "amount": 1
+    },
+    {
+        "name": "waxman",
+        "amount": 1
+    },
+    {
+        "name": "genius",
+        "amount": 1
+    },
+    {
+        "name": "wasn't",
+        "amount": 1
+    },
+    {
+        "name": "talking",
+        "amount": 1
+    },
+    {
+        "name": "shoe",
+        "amount": 1
+    },
+    {
+        "name": "attitude",
+        "amount": 1
+    },
+    {
+        "name": "these",
+        "amount": 1
+    },
+    {
+        "name": "letters",
+        "amount": 1
+    },
+    {
+        "name": "companies",
+        "amount": 1
+    },
+    {
+        "name": "interested",
+        "amount": 1
+    },
+    {
+        "name": "interviewing",
+        "amount": 1
+    },
+    {
+        "name": "many",
+        "amount": 1
+    },
+    {
+        "name": "handyman's",
+        "amount": 1
+    },
+    {
+        "name": "they",
+        "amount": 1
+    },
+    {
+        "name": "their",
+        "amount": 1
+    },
+    {
+        "name": "north",
+        "amount": 1
+    },
+    {
+        "name": "plants",
+        "amount": 1
+    },
+    {
+        "name": "bart",
+        "amount": 1
+    },
+    {
+        "name": "clean",
+        "amount": 1
+    },
+    {
+        "name": "urine",
+        "amount": 1
+    },
+    {
+        "name": "stat",
+        "amount": 1
+    },
+    {
+        "name": "motivated",
+        "amount": 1
+    },
+    {
+        "name": "quit",
+        "amount": 1
+    },
+    {
+        "name": "send",
+        "amount": 1
+    },
+    {
+        "name": "voice",
+        "amount": 1
+    },
+    {
+        "name": "mail",
+        "amount": 1
+    },
+    {
+        "name": "position",
+        "amount": 1
+    },
+    {
+        "name": "handsomest",
+        "amount": 1
+    },
+    {
+        "name": "ceo",
+        "amount": 1
+    },
+    {
+        "name": "taken",
+        "amount": 1
+    },
+    {
+        "name": "write",
+        "amount": 1
+    },
+    {
+        "name": "read",
+        "amount": 1
+    },
+    {
+        "name": "knew",
+        "amount": 1
+    },
+    {
+        "name": "luck",
+        "amount": 1
+    },
+    {
+        "name": "hell",
+        "amount": 1
+    },
+    {
+        "name": "sweetie",
+        "amount": 1
+    },
+    {
+        "name": "truck",
+        "amount": 1
+    },
+    {
+        "name": "find",
+        "amount": 1
+    },
+    {
+        "name": "wife",
+        "amount": 1
+    },
+    {
+        "name": "date",
+        "amount": 1
+    },
+    {
+        "name": "hero",
+        "amount": 1
+    },
+    {
+        "name": "nowhere",
+        "amount": 1
+    },
+    {
+        "name": "sit",
+        "amount": 1
+    },
+    {
+        "name": "stay",
+        "amount": 1
+    },
+    {
+        "name": "till",
+        "amount": 1
+    },
+    {
+        "name": "order",
+        "amount": 1
+    },
+    {
+        "name": "solid",
+        "amount": 1
+    },
+    {
+        "name": "small",
+        "amount": 1
+    },
+    {
+        "name": "dozen",
+        "amount": 1
+    },
+    {
+        "name": "placemats",
+        "amount": 1
+    },
+    {
+        "name": "they're",
+        "amount": 1
+    },
+    {
+        "name": "same",
+        "amount": 1
+    },
+    {
+        "name": "somebody's",
+        "amount": 1
+    },
+    {
+        "name": "tulsa",
+        "amount": 1
+    },
+    {
+        "name": "consistent",
+        "amount": 1
+    },
+    {
+        "name": "peppering",
+        "amount": 1
+    },
+    {
+        "name": "questions",
+        "amount": 1
+    },
+    {
+        "name": "principal",
+        "amount": 1
+    },
+    {
+        "name": "skinner",
+        "amount": 1
+    },
+    {
+        "name": "learn",
+        "amount": 1
+    },
+    {
+        "name": "touch",
+        "amount": 1
+    },
+    {
+        "name": "reptile",
+        "amount": 1
+    },
+    {
+        "name": "zoo",
+        "amount": 1
+    },
+    {
+        "name": "seems",
+        "amount": 1
+    },
+    {
+        "name": "someone",
+        "amount": 1
+    },
+    {
+        "name": "riding",
+        "amount": 1
+    },
+    {
+        "name": "giant",
+        "amount": 1
+    },
+    {
+        "name": "tortoise",
+        "amount": 1
+    },
+    {
+        "name": "naked",
+        "amount": 1
+    },
+    {
+        "name": "fault",
+        "amount": 1
+    },
+    {
+        "name": "drinking",
+        "amount": 1
+    },
+    {
+        "name": "fountain",
+        "amount": 1
+    },
+    {
+        "name": "dared",
+        "amount": 1
+    },
+    {
+        "name": "freak",
+        "amount": 1
+    },
+    {
+        "name": "fry",
+        "amount": 1
+    },
+    {
+        "name": "touches",
+        "amount": 1
+    },
+    {
+        "name": "die",
+        "amount": 1
+    },
+    {
+        "name": "suicide",
+        "amount": 1
+    },
+    {
+        "name": "aren't",
+        "amount": 1
+    },
+    {
+        "name": "explanationwise",
+        "amount": 1
+    },
+    {
+        "name": "fact",
+        "amount": 1
+    },
+    {
+        "name": "lied",
+        "amount": 1
+    },
+    {
+        "name": "she",
+        "amount": 1
+    },
+    {
+        "name": "inbox",
+        "amount": 1
+    },
+    {
+        "name": "johnson",
+        "amount": 1
+    },
+    {
+        "name": "report",
+        "amount": 1
+    },
+    {
+        "name": "repeat",
+        "amount": 1
+    },
+    {
+        "name": "joke",
+        "amount": 1
+    },
+    {
+        "name": "ya",
+        "amount": 1
+    },
+    {
+        "name": "formality",
+        "amount": 1
+    },
+    {
+        "name": "ask",
+        "amount": 1
+    },
+    {
+        "name": "resume",
+        "amount": 1
+    },
+    {
+        "name": "cheryl",
+        "amount": 1
+    },
+    {
+        "name": "security\"",
+        "amount": 1
+    },
+    {
+        "name": "hat",
+        "amount": 1
+    },
+    {
+        "name": "bear",
+        "amount": 1
+    },
+    {
+        "name": "mother",
+        "amount": 1
+    },
+    {
+        "name": "hang",
+        "amount": 1
+    },
+    {
+        "name": "her",
+        "amount": 1
+    },
+    {
+        "name": "she's",
+        "amount": 1
+    },
+    {
+        "name": "buying",
+        "amount": 1
+    },
+    {
+        "name": "brandname",
+        "amount": 1
+    },
+    {
+        "name": "groceries",
+        "amount": 1
+    },
+    {
+        "name": "brands",
+        "amount": 1
+    },
+    {
+        "name": "miser's",
+        "amount": 1
+    },
+    {
+        "name": "dayold",
+        "amount": 1
+    },
+    {
+        "name": "delights",
+        "amount": 1
+    },
+    {
+        "name": "things",
+        "amount": 1
+    },
+    {
+        "name": "rich",
+        "amount": 1
+    },
+    {
+        "name": "campbell's",
+        "amount": 1
+    },
+    {
+        "name": "soup",
+        "amount": 1
+    },
+    {
+        "name": "pepsodent",
+        "amount": 1
+    },
+    {
+        "name": "bad",
+        "amount": 1
+    },
+    {
+        "name": "isn't",
+        "amount": 1
+    },
+    {
+        "name": "hopes",
+        "amount": 1
+    },
+    {
+        "name": "nothing",
+        "amount": 1
+    },
+    {
+        "name": "works",
+        "amount": 1
+    },
+    {
+        "name": "manufacturing",
+        "amount": 1
+    },
+    {
+        "name": "pipe",
+        "amount": 1
+    },
+    {
+        "name": "diameter",
+        "amount": 1
+    },
+    {
+        "name": "fiveeights",
+        "amount": 1
+    },
+    {
+        "name": "inch",
+        "amount": 1
+    },
+    {
+        "name": "wants",
+        "amount": 1
+    },
+    {
+        "name": "premiere",
+        "amount": 1
+    },
+    {
+        "name": "meet",
+        "amount": 1
+    },
+    {
+        "name": "shelbyville",
+        "amount": 1
+    },
+    {
+        "name": "airport",
+        "amount": 1
+    },
+    {
+        "name": "hour",
+        "amount": 1
+    },
+    {
+        "name": "woman",
+        "amount": 1
+    },
+    {
+        "name": "truth",
+        "amount": 1
+    },
+    {
+        "name": "place",
+        "amount": 1
+    },
+    {
+        "name": "sad",
+        "amount": 1
+    },
+    {
+        "name": "enough",
+        "amount": 1
+    },
+    {
+        "name": "money",
+        "amount": 1
+    },
+    {
+        "name": "frank",
+        "amount": 1
+    },
+    {
+        "name": "talk",
+        "amount": 1
+    },
+    {
+        "name": "eat",
+        "amount": 1
+    },
+    {
+        "name": "deviled",
+        "amount": 1
+    },
+    {
+        "name": "egg",
+        "amount": 1
+    },
+    {
+        "name": "fellow",
+        "amount": 1
+    },
+    {
+        "name": "marine",
+        "amount": 1
+    },
+    {
+        "name": "thing",
+        "amount": 1
+    },
+    {
+        "name": "business",
+        "amount": 1
+    },
+    {
+        "name": "center",
+        "amount": 1
+    },
+    {
+        "name": "fax",
+        "amount": 1
+    },
+    {
+        "name": "wifi",
+        "amount": 1
+    },
+    {
+        "name": "teleconferencing",
+        "amount": 1
+    },
+    {
+        "name": "capabilities",
+        "amount": 1
+    },
+    {
+        "name": "try",
+        "amount": 1
+    },
+    {
+        "name": "whole",
+        "amount": 1
+    },
+    {
+        "name": "feeling",
+        "amount": 1
+    },
+    {
+        "name": "second",
+        "amount": 1
+    },
+    {
+        "name": "sweetheart",
+        "amount": 1
+    },
+    {
+        "name": "honest",
+        "amount": 1
+    },
+    {
+        "name": "through",
+        "amount": 1
+    },
+    {
+        "name": "rainbow",
+        "amount": 1
+    },
+    {
+        "name": "today",
+        "amount": 1
+    },
+    {
+        "name": "heroin",
+        "amount": 1
+    },
+    {
+        "name": "drove",
+        "amount": 1
+    },
+    {
+        "name": "cliff",
+        "amount": 1
+    },
+    {
+        "name": "once",
+        "amount": 1
+    },
+    {
+        "name": "ocean",
+        "amount": 1
+    },
+    {
+        "name": "sky",
+        "amount": 1
+    },
+    {
+        "name": "only",
+        "amount": 1
+    },
+    {
+        "name": "welcome",
+        "amount": 1
+    },
+    {
+        "name": "success",
+        "amount": 1
+    },
+    {
+        "name": "coached",
+        "amount": 1
+    },
+    {
+        "name": "bub",
+        "amount": 1
+    },
+    {
+        "name": "paid",
+        "amount": 1
+    },
+    {
+        "name": "savings",
+        "amount": 1
+    },
+    {
+        "name": "world",
+        "amount": 1
+    },
+    {
+        "name": "husband",
+        "amount": 1
+    },
+    {
+        "name": "encouraging",
+        "amount": 1
+    },
+    {
+        "name": "attempting",
+        "amount": 1
+    },
+    {
+        "name": "win",
+        "amount": 1
+    },
+    {
+        "name": "difficult",
+        "amount": 1
+    },
+    {
+        "name": "trying",
+        "amount": 1
+    },
+    {
+        "name": "experience",
+        "amount": 1
+    },
+    {
+        "name": "very",
+        "amount": 1
+    },
+    {
+        "name": "went",
+        "amount": 1
+    },
+    {
+        "name": "harvard",
+        "amount": 1
+    },
+    {
+        "name": "vanderbilt",
+        "amount": 1
+    },
+    {
+        "name": "little",
+        "amount": 1
+    },
+    {
+        "name": "further",
+        "amount": 1
+    },
+    {
+        "name": "duffman",
+        "amount": 1
+    },
+    {
+        "name": "reported",
+        "amount": 1
+    },
+    {
+        "name": "faa",
+        "amount": 1
+    },
+    {
+        "name": "near",
+        "amount": 1
+    },
+    {
+        "name": "miss",
+        "amount": 1
+    },
+    {
+        "name": "investigated",
+        "amount": 1
+    },
+    {
+        "name": "board",
+        "amount": 1
+    },
+    {
+        "name": "retired",
+        "amount": 1
+    },
+    {
+        "name": "pilots",
+        "amount": 1
+    },
+    {
+        "name": "made",
+        "amount": 1
+    },
+    {
+        "name": "america",
+        "amount": 1
+    },
+    {
+        "name": "understanding",
+        "amount": 1
+    },
+    {
+        "name": "limits",
+        "amount": 1
+    },
+    {
+        "name": "power",
+        "amount": 1
+    },
+    {
+        "name": "complete",
+        "amount": 1
+    },
+    {
+        "name": "lack",
+        "amount": 1
+    },
+    {
+        "name": "concern",
+        "amount": 1
+    },
+    {
+        "name": "anyone",
+        "amount": 1
+    },
+    {
+        "name": "thinks",
+        "amount": 1
+    },
+    {
+        "name": "you'll",
+        "amount": 1
+    },
+    {
+        "name": "heard",
+        "amount": 1
+    },
+    {
+        "name": "elevation",
+        "amount": 1
+    },
+    {
+        "name": "landed",
+        "amount": 1
+    },
+    {
+        "name": "taxi",
+        "amount": 1
+    },
+    {
+        "name": "terminal",
+        "amount": 1
+    },
+    {
+        "name": "jets",
+        "amount": 1
+    },
+    {
+        "name": "too",
+        "amount": 1
+    },
+    {
+        "name": "dangerous",
+        "amount": 1
+    },
+    {
+        "name": "decided",
+        "amount": 1
+    },
+    {
+        "name": "plant",
+        "amount": 1
+    },
+    {
+        "name": "beg",
+        "amount": 1
+    },
+    {
+        "name": "understand",
+        "amount": 1
+    },
+    {
+        "name": "extra",
+        "amount": 1
+    },
+    {
+        "name": "income",
+        "amount": 1
+    },
+    {
+        "name": "earned",
+        "amount": 1
+    },
+    {
+        "name": "last",
+        "amount": 1
+    },
+    {
+        "name": "few",
+        "amount": 1
+    },
+    {
+        "name": "months",
+        "amount": 1
+    },
+    {
+        "name": "set",
+        "amount": 1
+    },
+    {
+        "name": "aside",
+        "amount": 1
+    },
+    {
+        "name": "rainy",
+        "amount": 1
+    },
+    {
+        "name": "music",
+        "amount": 1
+    },
+    {
+        "name": "awards",
+        "amount": 1
+    },
+    {
+        "name": "weighing",
+        "amount": 1
+    },
+    {
+        "name": "down",
+        "amount": 1
+    },
+    {
+        "name": "yours",
+        "amount": 1
+    },
+    {
+        "name": "wwwtvsubtitlesnet",
+        "amount": 1
+    }
+]
