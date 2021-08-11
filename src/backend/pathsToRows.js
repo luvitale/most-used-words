@@ -1,19 +1,16 @@
-const fs = require('fs')
+const fs = require("fs");
 
-module.exports = paths => {
+module.exports = (paths) => {
   return new Promise((resolver, reject) => {
     try {
-      const rows = paths.map(
-        path => fs.readFileSync(path).toString("utf-8")
-      ).reduce(
-        (fullText, fileText) => `${fullText}\n${fileText}`
-      ).split("\n")
+      const rows = paths
+        .map((path) => fs.readFileSync(path).toString("utf-8"))
+        .reduce((fullText, fileText) => `${fullText}\n${fileText}`)
+        .split("\n");
 
-      resolver(rows)
+      resolver(rows);
+    } catch (e) {
+      reject(e);
     }
-
-    catch (e) {
-      reject(e)
-    }
-  })
-}
+  });
+};

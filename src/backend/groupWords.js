@@ -1,23 +1,21 @@
-module.exports = words => {
+module.exports = (words) => {
   return new Promise((resolver, reject) => {
     try {
       const groupedWords = words.reduce((obj, word) => {
-        obj[word] = (obj[word] + 1) || 1
-        return obj
-      }, {})
+        obj[word] = obj[word] + 1 || 1;
+        return obj;
+      }, {});
 
-      const groupedWordsArray = Object.keys(
-        groupedWords
-      ).map(key => ({
-        name: key,
-        amount: groupedWords[key]
-      })).sort((w1, w2) => w2.amount - w1.amount)
+      const groupedWordsArray = Object.keys(groupedWords)
+        .map((key) => ({
+          name: key,
+          amount: groupedWords[key],
+        }))
+        .sort((w1, w2) => w2.amount - w1.amount);
 
-      resolver(groupedWordsArray)
+      resolver(groupedWordsArray);
+    } catch (e) {
+      reject(e);
     }
-
-    catch (e) {
-      reject(e)
-    }
-  })
-}
+  });
+};

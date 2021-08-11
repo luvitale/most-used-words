@@ -9,43 +9,48 @@
         multiple
         chips
         v-model="files"
-        @click:append-outer="processSubtitles" />
+        @click:append-outer="processSubtitles"
+      />
     </v-form>
 
     <div class="pills">
-      <Pill v-for="word in groupedWords" :key="word.name"
-        :name="word.name" :amount="word.amount" />
+      <Pill
+        v-for="word in groupedWords"
+        :key="word.name"
+        :name="word.name"
+        :amount="word.amount"
+      />
     </div>
   </v-container>
 </template>
 
 <script>
-import Pill from './Pill'
+import Pill from "./Pill";
 
 export default {
   components: { Pill },
   data: function () {
     return {
       files: [],
-      groupedWords: []
-    }
+      groupedWords: [],
+    };
   },
   methods: {
     processSubtitles() {
-      const paths = this.files.map(f => f.path)
-      window.ipcRenderer.send("process-subtitles", paths)
-      window.ipcRenderer.receive("process-subtitles", resp => {
-        this.groupedWords = resp
-      })
-    }
-  }
-}
+      const paths = this.files.map((f) => f.path);
+      window.ipcRenderer.send("process-subtitles", paths);
+      window.ipcRenderer.receive("process-subtitles", (resp) => {
+        this.groupedWords = resp;
+      });
+    },
+  },
+};
 </script>
 
 <style>
-  .pills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 </style>
