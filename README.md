@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-You can download binaries or source in [Releases](https://github.com/luvitale/inti-digital-signature/releases) section and install it.
+You can download binaries or source in [Releases](https://github.com/luvitale/most-used-words/releases) section and install it.
 
 ## Continuous Integration
 

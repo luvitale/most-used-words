@@ -1,6 +1,6 @@
 {
   "name": "most-used-words",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "private": true,
   "author": "Luciano Nahuel Vitale <lucianonahuelvitale@gmail.com>",
   "scripts": {
@@ -87,7 +87,7 @@
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
-  "homepage": "https://github.com/luvitale/inti-digital-signature",
+  "homepage": "https://github.com/luvitale/most-used-words",
   "license": "CC0-1.0",
   "lint-staged": {
     "*.{js,jsx,vue}": [
