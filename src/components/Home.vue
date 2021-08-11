@@ -21,6 +21,10 @@
         :amount="word.amount"
       />
     </div>
+
+    <v-btn color="error" dark class="text-none" @click="deleteWords">
+      Delete words
+    </v-btn>
   </v-container>
 </template>
 
@@ -42,6 +46,10 @@ export default {
       window.ipcRenderer.receive("process-subtitles", (resp) => {
         this.groupedWords = resp;
       });
+    },
+
+    deleteWords() {
+      this.groupedWords = [];
     },
   },
 };
